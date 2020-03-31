@@ -12,4 +12,4 @@ Steps to Install:
 1. Open any file in IDE or Create Virtual Environment
 2. Install library playsound using "pip install playsound"
 3. Run
-4. Write song name like "bensound-ukelele.mp3"
+4. Write song name like "bensound-ukelele.mp3".
