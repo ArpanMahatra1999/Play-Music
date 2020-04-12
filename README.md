@@ -1,5 +1,4 @@
 # Play-Music
-
 Python code for playing music.
 
 Tools used:
